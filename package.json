@@ -71,7 +71,7 @@
     "simple-git-hooks": "^2.13.1",
     "tsx": "^4.22.4",
     "typescript": "^5.9.3",
-    "vitest": "^3.2.6"
+    "vitest": "^4.1.8"
   },
   "simple-git-hooks": {
     "pre-commit": "pnpm lint-staged && pnpm type-check && pnpm test",
